@@ -102,7 +102,7 @@ def diagnose_error(app_id, original_code, error_msg, api_key):
 
 def main():
     # 配置信息
-    APP_ID = "YOUR_APP_ID"  # 替换为您的百炼应用ID
+    APP_ID = "b35fb890210d4372b6a323193597de6d"  # 替换为您的百炼应用ID
     API_KEY = os.getenv("DASHSCOPE_API_KEY") 
     
     print(f"{Fore.CYAN}=== AI代码执行助手 ==={Style.RESET_ALL}")
