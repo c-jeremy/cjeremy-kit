@@ -23,8 +23,8 @@ A Python-based interactive code agent that integrates with Dashscope's LLM API t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/cao-zhiming/czm-kit.git
-cd czm-kit
+git clone https://github.com/c-jeremy/cjeremy-kit.git
+cd cjeremy-kit
 ```
 
 2. Install dependencies:
@@ -56,7 +56,7 @@ python bash-qwen.py
 
 ```text
 === Bash-Qwen ===
-https://github.com/cao-zhiming/czm-kit
+https://github.com/c-jeremy/cjeremy-kit
 
 Prompt(or enter quit): Write a Python function to calculate factorial of 5
 
