@@ -165,7 +165,7 @@ def main():
     agent = CodeAgent(APP_ID)
     
     print(f"{Fore.CYAN}=== Bash-Qwen ==={Style.RESET_ALL}")
-    print(f"{Fore.YELLOW}https://github.com/cao-zhiming/czm-kit{Style.RESET_ALL}")
+    print(f"{Fore.YELLOW}https://github.com/c-jeremy/cjeremy-kit{Style.RESET_ALL}")
     
     while True:
         try:
